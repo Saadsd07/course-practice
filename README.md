@@ -1,2 +1,0 @@
-# course-practice
-practice repository
